@@ -32,7 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
+
+Since I'm new to using Git and Android Studios, I was very unfamiliar with the language and had a difficulty understanding the different methods or functionalities in Android Studios. In some occasions, I would do minor errors like forgetting a semicolon or paranthesis, but I diligently kept coding and exploring git and Android Studios to become more familiar. 
 
 ## License
 
